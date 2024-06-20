@@ -2,6 +2,7 @@
 
 #include<stdio.h>
 #include<conio.h>
+main()
 {
     int i,n,r,s=0;
     
